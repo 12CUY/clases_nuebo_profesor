@@ -1,0 +1,17 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "aprendiendo ausar el node",
+  "main": "index.js",
+  "scripts": {
+    "test": "text",
+    "dev": "node src/index.js",
+    "comando": "npm run dev",
+    "start": "node src/node.js"
+  },
+  "author": "wiliam",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
